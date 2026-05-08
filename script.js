@@ -6,6 +6,7 @@
 const IMAGES = [
   { src: "images/page01.jpg", title: "1화 — 시작" },
   { src: "images/page02.jpg", title: "1화 — 2페이지" },
+     { src: "images/page03.jpg", title: "1화 — 3페이지" },
 ];
 
 const MIN_ZOOM  = 0.3;
